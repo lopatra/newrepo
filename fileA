@@ -1,0 +1,6 @@
+mkdir newrepo
+cd newrepo
+vi hello.c
+make hello
+cc hello.c -o hello
+./hello
